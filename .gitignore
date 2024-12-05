@@ -1,0 +1,32 @@
+# ============ Unity ============
+
+# User-specific files
+UserSettings/
+
+# Build results
+[Ll]ibrary/
+[Tt]emp/
+Obj/
+Build/
+build/
+
+# User-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+
+# Ignore the following folders:
+ExportedObj/
+.svn/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
